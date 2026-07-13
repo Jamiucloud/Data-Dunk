@@ -195,14 +195,6 @@ docker run -p 8000:8000 data-dunk
 - **12 manual end-to-end scenarios** — desktop + mobile, all passed
 - **Load testing (Locust)** — 100 concurrent users, 3,696 requests, zero failures; median 142ms for predictions, 847ms for SHAP explanations
 
-Full methodology and results are in the [final project report](./Data_Dunk_Final_Report.pdf).
-
----
-
-## 📖 Full Project Report
-
-This repo includes the complete final year project report covering the literature review, system design, implementation decisions, testing methodology, and a user acceptance study (System Usability Scale score: **88.4 / 100**, "excellent" range, from 10 test users). See `Data_Dunk_Final_Report.pdf` for the full write-up.
-
 ---
 
 ## 🔮 Future Work
