@@ -1,3 +1,5 @@
+
+
 # 🏀 Data Dunk
 
 **A full-stack machine learning web app that predicts NBA game outcomes and player stats — and explains *why*, using SHAP.**
@@ -8,7 +10,9 @@ Most sports prediction tools give you a number and nothing else. Data Dunk shows
 
 ## 🎥 Demo
 
-A full walkthrough is available in `DATA_DUNK-DEMO.mp4` in this repo. GitHub doesn't render local video files inline in a README — to embed it as a playable clip, open a new GitHub Issue in your repo, drag the `.mp4` into the comment box, copy the `https://github.com/user-attachments/...` link it generates, then paste that link here (or as a plain link: `[▶ Watch the demo](your-link-here)`). Cancel the issue afterwards without submitting — the uploaded asset link still works.
+
+
+https://github.com/user-attachments/assets/517f7c00-3c95-43cb-a9d3-fd77a7a0f0e0
 
 ---
 
